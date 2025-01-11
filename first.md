@@ -42,7 +42,15 @@ C和弦：一弦3品
 
 ## 扫弦
 
+![image](https://github.com/user-attachments/assets/7ea0e22e-b8c9-477c-9042-e2b193cde0e2)
+
+
 箭头向上 -> 下扫, 箭头向下 -> 上扫，从上到下依次为四分音符、八分音符、十六分音符，每一拍的总时长是一样的
+
+![image](https://github.com/user-attachments/assets/54e33126-e660-40b2-8e67-e6060911ce51)
+
+下 下下上，节拍念出来，提示手指下一步做什么
+
 
 ![image](https://github.com/user-attachments/assets/e817933b-b3d5-4f77-8a99-7de6983ffdde)
 
