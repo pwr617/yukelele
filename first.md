@@ -41,8 +41,8 @@ C和弦：一弦3品
 一房子仅第一遍弹唱，第二遍直接跳到二房子部分进行弹唱
 
 ## 扫弦
+![企业微信截图_d6bd623b-7938-4356-bf2a-83eff43e2135](https://github.com/user-attachments/assets/bc6c139a-f6ee-42f4-ab6f-a7b51d4851d0)
 
-![image](https://github.com/user-attachments/assets/7ea0e22e-b8c9-477c-9042-e2b193cde0e2)
 
 
 箭头向上 -> 下扫, 箭头向下 -> 上扫，从上到下依次为四分音符、八分音符、十六分音符，每一拍的总时长是一样的
@@ -52,8 +52,7 @@ C和弦：一弦3品
 下 下下上，节拍念出来，提示手指下一步做什么
 
 
-![image](https://github.com/user-attachments/assets/e817933b-b3d5-4f77-8a99-7de6983ffdde)
-
+![企业微信截图_f355c3cc-90e5-4161-b0a7-9e27b88fbaa9](https://github.com/user-attachments/assets/2e5f0ba3-1890-4426-b15a-3f6fec05cc2e)
 
 
 
