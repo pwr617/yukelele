@@ -55,4 +55,11 @@ C和弦：一弦3品
 ![企业微信截图_f355c3cc-90e5-4161-b0a7-9e27b88fbaa9](https://github.com/user-attachments/assets/2e5f0ba3-1890-4426-b15a-3f6fec05cc2e)
 
 
+## 切音
+![image](https://github.com/user-attachments/assets/9c20008e-6821-4eb8-89fa-d1694c12b95c)
+
+扫弦上的小点表示切音，切音按住所有弦，停止发音即可。 
+
+
+
 
